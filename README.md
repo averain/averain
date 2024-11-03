@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @averain
-- 👀 I’m interested in Pussy
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning Artifficial Intelligence as God rd
-- 💞️ I’m looking to collaborate on Penis Task
+- 💞️ I’m looking to collaborate on ml
 - 📫 How to reach me Via Bruderschaft PhonIS
 
 <!---
